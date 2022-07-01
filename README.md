@@ -2,7 +2,7 @@
 A python library for detect cycle graph
 # How install it?
 ```
-pip install https://github.com/Mohammadfazel03/Cycle-Graph-Detect
+pip install git+https://github.com/Mohammadfazel03/Cycle-Graph-Detect
 ```
 # How to use it?
 ```python
