@@ -1,3 +1,4 @@
+
 class Vertices:
     def __init__(self, start_edge: int, destination_edge: int):
         self.start_edge = start_edge
